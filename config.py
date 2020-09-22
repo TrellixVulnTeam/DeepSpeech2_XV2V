@@ -1,0 +1,9 @@
+batch_size = 128
+nb_epochs = 10
+stride_ms = 10
+window_ms = 20
+input_dim = 161
+normalize = True
+sample_rate = 16000
+train_path = '../Dataset/test-clean/LibriSpeech/test-clean.csv'
+vocabulary_path = '../Dataset/vocabulary-en.txt'
